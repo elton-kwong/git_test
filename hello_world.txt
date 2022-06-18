@@ -1,2 +1,2 @@
 Adding some text for example purposes.
-Practicing git commit.
+Practicing git commit!
