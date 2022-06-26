@@ -1,2 +1,3 @@
 Adding some text for example purposes.
 Practicing git commit!
+Learning how to write subject and body in commits.
